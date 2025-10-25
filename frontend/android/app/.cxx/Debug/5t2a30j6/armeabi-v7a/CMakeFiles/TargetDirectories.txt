@@ -1,0 +1,2 @@
+C:/Users/aakar/Downloads/school_management-main/school_management-main/android/app/.cxx/Debug/5t2a30j6/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Users/aakar/Downloads/school_management-main/school_management-main/android/app/.cxx/Debug/5t2a30j6/armeabi-v7a/CMakeFiles/rebuild_cache.dir
