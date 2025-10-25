@@ -2,8 +2,11 @@
 
 Scolio is a comprehensive school management system that bridges teachers, students, and parents through an intuitive interface.
 It features a Node.js backend (Express.js + DynamoDB) and a Flutter frontend, offering a complete end-to-end solution for educational institutions.
+
+.
+
 <img width="345" height="771" alt="Screenshot 2025-10-25 182733" src="https://github.com/user-attachments/assets/8ccc7580-629a-4a41-803e-58ef4c722f15" />
-<img width="344" height="763" alt="Screenshot 2025-10-25 182752" src="https://github.com/user-attachments/assets/7a2eeea4-0eee-4b04-8cc2-d4f972d99c8b" />
+
 
 🏗️ Project Structure
 scolio-school-management/
